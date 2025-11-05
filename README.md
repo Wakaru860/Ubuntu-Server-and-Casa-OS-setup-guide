@@ -168,7 +168,7 @@ This will:
 1. Once installation completes, you'll see a message with a URL
 2. On another computer on the same network, open a web browser
 3. Navigate to: `http://your-server-ip` (e.g., `http://192.168.1.100`)
-4. You should see the CasaOS welcome screen!
+4. You should see the CasaOS welcome screen
 
 ### Step 3: Initial CasaOS Setup
 1. Create a CasaOS username and password
@@ -189,7 +189,6 @@ CasaOS makes it easy to install services:
    - Download: qBittorrent, Transmission
    - Smart Home: Home Assistant
    - Backup: Duplicati
-   - And many more!
 3. Click an app and press Install
 4. Wait for installation to complete
 5. Access the app from your dashboard
